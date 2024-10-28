@@ -74,9 +74,9 @@ Based on the insights from this analysis, as a telecom provider it is valuable t
 
 **2. Revise Contract Offerings:** Reevaluate the month-to-month contract options, as they show the highest churn rates. Consider incentivizing longer-term commitments with benefits that enhance customer loyalty.
 
-**3. Enhance Service Bundling: **Promote bundled offerings that include Phone Service and Fiber Optic Internet, as these attract customers with high Customer Lifetime Value (CLV).
+**3. Enhance Service Bundling:** Promote bundled offerings that include Phone Service and Fiber Optic Internet, as these attract customers with high Customer Lifetime Value (CLV).
 
-**4. Improve Customer Engagement: **Implement initiatives that encourage proactive customer behaviors, such as setting up online security and device protection, to enhance retention rates among high-risk groups.
+**4. Improve Customer Engagement:** Implement initiatives that encourage proactive customer behaviors, such as setting up online security and device protection, to enhance retention rates among high-risk groups.
 
 ## Dataset
 
