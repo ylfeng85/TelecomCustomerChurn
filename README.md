@@ -43,7 +43,7 @@ Visit the [Tableau Dashboard](https://public.tableau.com/app/profile/melody.feng
 
 Analysis: I explored the type of customers who churnend and did not churn, such as their demographics, the tenure and pricing plan they selected and the plan services regarding Internet and Phone Services.
 
-Visualization: Dashboard made of visualizations including: Amount of customers who churned and did not churn (Bar Chart), Tenures and the amount of people per tenure who churned (Bubble Chart), Churn Rate per monthly charge (Line Graph), Partner and Dependent Churn Rates (Chart), CLV of Phone Services Customer and Internet Services Customer (Bar Charts)
+Visualization: Dashboard made of visualizations including: Amount of customers who churned and did not churn (Bar Chart), Tenures and the amount of people per tenure who churned (Bubble Chart), Churn Rate per monthly charge (Line Graph), Partner and Dependent Churn Rates (Table), CLV of Phone Services Customer and Internet Services Customer (Bar Charts)
 
 Insight: 
   - Demographics: Families— those with a partner and dependents—exhibit lower churn rates.
@@ -56,7 +56,7 @@ Insight:
 
 Analysis: I compared behaviors associated with high churn rate customers, looking into their preferences in terms of phone plans such as contract type, streaming TV or movies, payment method, paperless billing and online protections. 
 
-Visualization: Contract Type Churn Rate (Heatmap), Streaming TV and Movie Churning Churn Rate (Stacked Bar Chart), Payment Method Churn Rate (Bar Chart), Paperless Billing Churn Rate (Bar Chart), Online Secuirty, Backup and Device Protection (Heatmap)
+Visualization: Contract Type Churn Rate (Highlight Table), Streaming TV and Movie Churning Churn Rate (Stacked Bar Chart), Payment Method Churn Rate (Bar Chart), Paperless Billing Churn Rate (Bar Chart), Online Secuirty, Backup and Device Protection (Highlight Table)
 
 Insight: 
   - Contract Type: Month-to-month contracts exhibit the highest churn rates.
